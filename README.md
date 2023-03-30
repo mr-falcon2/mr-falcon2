@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack webdevelopment
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me @prem_sai__1 insta
-- linkedin.com/in/premsai-reddy-bb06a7249 (LINKEDIN)
+- www.linkedin.com/in/premsai-reddy-bb06a7249 (LINKEDIN)
 
 <!---
 mr-falcon2/mr-falcon2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
