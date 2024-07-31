@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-falcon2
+- 👋 Hi, I’m @premsai
 - 👀 I’m interested in fullstack webdevelopment
 - 🌱 I’m currently learning fullstack webdevelopment
 - 💞️ I’m looking to collaborate on team
